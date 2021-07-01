@@ -1,5 +1,4 @@
-{
-  "name": "issue-maker",
+{ "name": "issue-maker",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
